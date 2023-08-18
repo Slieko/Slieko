@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Slieko/slk/blob/main/hi.gif" width="75%" height="100%" alt="logo"/>
+  <img src="https://github.com/Slieko/Slieko/blob/main/hi.gif" width="75%" height="100%" alt="logo"/>
 </p>
 <h1 align="center">hi</h1>
 
