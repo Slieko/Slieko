@@ -4,3 +4,6 @@
 <h1 align="center">hi, i'm Slieko</h1>
 
 i'm just bad coder, love to create strange or useless mods. 
+
+# Now, working at: StrangeMod, ATW
+
