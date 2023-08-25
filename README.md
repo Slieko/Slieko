@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/Slieko/Slieko/blob/main/hi.gif" width="50%" height="50%" alt="logo"/>
 </p>
-<h1 align="center">hi</h1>
 
 i'm Slieko, just bad coder, love to create strange or useless mods. Playing minecraft for 6+ years, using badlion and g102. 
 
