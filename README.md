@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://github.com/Slieko/Slieko/blob/main/hi.gif" width="50%" height="50%" alt="logo"/>
 </p>
 <h1 align="center">hi</h1>
