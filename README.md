@@ -8,5 +8,5 @@ i'm Slieko, just bad coder, love to create strange or useless mods. Playing mine
 And **i use arch btw**
 
 # Now, working at: 
-**StrangeMod, AllTheWoman and helping to random repo's**
+**StrangeMod**
 
