@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/Slieko/Slieko/blob/main/hi.gif" width="50%" height="50%" alt="logo"/>
+  <img src="https://github.com/Slieko/Slieko/blob/main/tohru.gif" width="50%" height="50%" alt="logo"/>
 </p>
 
-i'm Slieko, just bad coder, love to create strange or useless mods. Playing minecraft for 6+ years, using badlion and g102. 
+i'm Slieko, just bad coder, love to create strange or useless mods. Playing minecraft for 5+ years, using badlion and g102. Love to post shit on yt channel
 
 
-And **i use arch btw**
+Now using **Windows**
 
-# Now, working at: 
-**StrangeMod**
+# Now, active working at: 
+**nothing :(**
 
