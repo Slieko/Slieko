@@ -10,3 +10,7 @@ Now using **Windows**
 # Now, active working at: 
 **nothing :(**
 
+
+
+
+  <img src="https://count.getloli.com/get/@Slieko?theme=rule34"  alt=""/>
