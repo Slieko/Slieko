@@ -14,5 +14,5 @@ sometimes posting shit on yt.
 
 #
 
-  <img src="https://count.getloli.com/get/@Slieko?theme=gelbooru" width="50%" height="75%" alt=""/> [![Slieko's GitHub stats](https://github-readme-stats.vercel.app/api?username=slieko)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://count.getloli.com/get/@Slieko?theme=gelbooru" width="45%" height="75%" alt=""/> [![Slieko's GitHub stats](https://github-readme-stats.vercel.app/api?username=slieko)](https://github.com/anuraghazra/github-readme-stats)
 #
