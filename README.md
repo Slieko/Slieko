@@ -1,17 +1,18 @@
-<p align="center">
-  <img src="https://github.com/Slieko/Slieko/blob/main/tohru.gif" width="50%" height="50%" alt="logo"/>
-</p>
 
-i'm Slieko, just bad coder, love to create strange or useless mods. Playing minecraft for 5+ years, using badlion and roccat kone pro. Love to post shit on yt channel
+# Some info
 
+love to create strange or useless things.
 
-Now using **Windows**
+sometimes posting shit on yt.
 
-# Now, active working at: 
-**[ThunderHack Recode++](https://github.com/Slieko/Thunderhack-recode-)**
+#
 
+<h2>Now, working at:</h2>
 
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@Slieko?theme=rule34"  alt=""/>
-</p>
+ **[ThunderHack Recode++](https://github.com/Slieko/Thunderhack-recode-)**
+
+#
+
+  <img src="https://count.getloli.com/get/@Slieko?theme=gelbooru" width="50%" height="75%" alt=""/> [![Slieko's GitHub stats](https://github-readme-stats.vercel.app/api?username=slieko)](https://github.com/anuraghazra/github-readme-stats)
+#
