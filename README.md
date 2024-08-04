@@ -10,7 +10,7 @@ sometimes posting shit on yt.
 <h2>Now, working at:</h2>
 
 
- **[ThunderHack Recode++](https://github.com/Slieko/Thunderhack-recode-)**
+ **nothing :(**
 
 #
 
